@@ -1,4 +1,4 @@
-cuy
+Cuy
 ===
 
 Game Engine
